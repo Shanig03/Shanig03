@@ -1,5 +1,5 @@
 ## Hey, I'm Shani 👋
-🎓 2nd-year Computer Science student at Ariel University  
+🎓 3nd-year Computer Science student at Ariel University  
 💡 Love tackling complex problems, building efficient systems, and experimenting with new tech  
 
 ## 🔥 Interests 
