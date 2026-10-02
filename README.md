@@ -1,21 +1,11 @@
 ## Hey, I'm Shani 👋
 
-Computer Science student at Ariel University  
-Interested in software development, problem-solving, and building practical tech projects  
+🎓 **B.Sc. Computer Science Graduate** from Ariel University  
+☁️ Passionate about software development, artificial intelligence, and building scalable cloud applications.
 
-## About Me
+### 👩‍💻 About Me
+I enjoy transforming complex problems into practical, efficient technology solutions. My recent work spans across AI-based deepfake detection, full-stack serverless architectures, and mobile development. I'm a fast learner who thrives in dynamic environments and loves diving into new technologies.
 
-I enjoy learning new technologies, working on challenging projects, and improving my skills in programming, algorithms, cloud development, and AI.
-
-## Currently Exploring
-
-- Software development
-- Algorithms and data structures
-- Cloud computing
-- Machine Learning & AI
-- Backend and distributed systems
-
-## Reach Me
-
-- Email: Shanig7531@gmail.com  
-- LinkedIn: Shani Golomb
+### 📫 Let's Connect
+- **Email:** [Shanig7531@gmail.com](mailto:Shanig7531@gmail.com)
+- **LinkedIn:** [Shani Golomb](https://www.linkedin.com/in/shani-golomb-88988734a/)
